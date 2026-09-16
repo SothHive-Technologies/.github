@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-label="SothHive Technologies">
+  <rect width="1280" height="640" fill="#0f1419"/>
+  <circle cx="1080" cy="80" r="260" fill="#f97316" opacity="0.12"/>
+  <circle cx="160" cy="560" r="220" fill="#14b8a6" opacity="0.12"/>
+  <polygon points="640,150 760,220 760,360 640,430 520,360 520,220" fill="none" stroke="#f97316" stroke-width="10"/>
+  <circle cx="640" cy="225" r="18" fill="#f97316"/>
+  <circle cx="710" cy="265" r="14" fill="#2dd4bf"/>
+  <circle cx="710" cy="330" r="14" fill="#2dd4bf"/>
+  <circle cx="570" cy="265" r="14" fill="#2dd4bf"/>
+  <circle cx="570" cy="330" r="14" fill="#2dd4bf"/>
+  <circle cx="640" cy="365" r="16" fill="#f97316"/>
+  <line x1="640" y1="243" x2="700" y2="258" stroke="#2dd4bf" stroke-width="4"/>
+  <line x1="640" y1="243" x2="580" y2="258" stroke="#2dd4bf" stroke-width="4"/>
+  <line x1="710" y1="279" x2="710" y2="316" stroke="#2dd4bf" stroke-width="4"/>
+  <line x1="570" y1="279" x2="570" y2="316" stroke="#2dd4bf" stroke-width="4"/>
+  <line x1="700" y1="338" x2="652" y2="355" stroke="#f97316" stroke-width="4"/>
+  <line x1="580" y1="338" x2="628" y2="355" stroke="#f97316" stroke-width="4"/>
+  <text x="640" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#f8fafc">SothHive Technologies</text>
+  <text x="640" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#94a3b8">Building digital infrastructure for Africa and beyond.</text>
+</svg>
