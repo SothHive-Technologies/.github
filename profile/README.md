@@ -79,6 +79,6 @@ Bring the messy diagram. If the ERP, the product, the payment rail, and the peop
 
 <div align="center">
 
-<em>Liquid on the surface. Strict underneath.</em>
+<em>Building Digital Infrastructure for Modern Businesses in Africa and beyond</em>
 
 </div>
