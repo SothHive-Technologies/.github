@@ -12,7 +12,7 @@ Software, integrations, payments, AI pipelines, and automation — designed as o
 [![Email](https://img.shields.io/badge/email-info%40softhive.com-14b8a6?style=for-the-badge)](mailto:info@softhive.com)
 [![Nairobi](https://img.shields.io/badge/studio-Nairobi%2C%20Kenya-f97316?style=for-the-badge)](https://softhivetechnologies.com/)
 
-<img src="SoftHive_Technologies_Corporate_Banner.png" alt="SoftHive hive network" width="920"/>
+<img src="SH_C_Banner.png" alt="SoftHive hive network" width="920"/>
 
 </div>
 
