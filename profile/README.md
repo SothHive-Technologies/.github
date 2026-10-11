@@ -6,9 +6,9 @@
 
 Software, integrations, payments, AI pipelines, and automation — designed as one system, not five disconnected vendors.
 
-[Website]([https://softhivetechnologies.com/](https://softhivetechnologies.com/)) · [Email](mailto:info@softhive.com) · [Call](tel:+254707282965)
+[Website](https://softhivetechnologies.com/) · [Email](mailto:info@softhive.com) · [Call](tel:+254707282965)
 
-[![Website](https://img.shields.io/badge/web-softhive.com-0f1419?style=for-the-badge)](https://softhivetechnologies.com/)
+[![Website](https://img.shields.io/badge/web-softhivetechnologies.com-0f1419?style=for-the-badge)](https://softhivetechnologies.com/)
 [![Email](https://img.shields.io/badge/email-info%40softhive.com-14b8a6?style=for-the-badge)](mailto:info@softhive.com)
 [![Nairobi](https://img.shields.io/badge/studio-Nairobi%2C%20Kenya-f97316?style=for-the-badge)](https://softhivetechnologies.com/)
 
@@ -71,7 +71,7 @@ We staff engagements as a hive: product engineers beside integration leads, paym
 
 Bring the messy diagram. If the ERP, the product, the payment rail, and the people are not yet one system, that is the work.
 
-**[softhive.jamilink.com](https://softhivetechnologies.com/)** · **[info@softhive.com](mailto:info@softhive.com)**
+**[softhivetechnologies.com](https://softhivetechnologies.com/)** · **[info@softhive.com](mailto:info@softhive.com)**
 
 ---
 
