@@ -1,18 +1,18 @@
 <div align="center">
 
-# SothHive Technologies
+# SoftHive Technologies
 
 **Building digital infrastructure for Africa and beyond.**
 
 Software, integrations, payments, AI pipelines, and automation — designed as one system, not five disconnected vendors.
 
-[Website]([https://www.softhive.jamilink.com](https://softhivetechnologies.com/)) · [Email](mailto:info@softhive.com) · [Call](tel:+254707282965)
+[Website]([https://softhivetechnologies.com/](https://softhivetechnologies.com/)) · [Email](mailto:info@softhive.com) · [Call](tel:+254707282965)
 
-[![Website](https://img.shields.io/badge/web-softhive.com-0f1419?style=for-the-badge)](https://www.softhive.jamilink.com)
+[![Website](https://img.shields.io/badge/web-softhive.com-0f1419?style=for-the-badge)](https://softhivetechnologies.com/)
 [![Email](https://img.shields.io/badge/email-info%40softhive.com-14b8a6?style=for-the-badge)](mailto:info@softhive.com)
-[![Nairobi](https://img.shields.io/badge/studio-Nairobi%2C%20Kenya-f97316?style=for-the-badge)](https://www.softhive.jamilink.com)
+[![Nairobi](https://img.shields.io/badge/studio-Nairobi%2C%20Kenya-f97316?style=for-the-badge)](https://softhivetechnologies.com/)
 
-<img src="banner.png" alt="SothHive hive network" width="920"/>
+<img src="banner.png" alt="SoftHive hive network" width="920"/>
 
 </div>
 
@@ -20,7 +20,7 @@ Software, integrations, payments, AI pipelines, and automation — designed as o
 
 ## The hive
 
-SothHive is a technology consulting studio. We advise, then we build: product engineering beside ERP bridges, payment rails beside AI pipelines, so strategy survives contact with production.
+SoftHive is a technology consulting studio. We advise, then we build: product engineering beside ERP bridges, payment rails beside AI pipelines, so strategy survives contact with production.
 
 We work with operators across East Africa and remote worldwide who need software that still talks to the ledger on a Tuesday.
 
@@ -51,7 +51,7 @@ We work with operators across East Africa and remote worldwide who need software
 
 ## Featured work
 
-- **[web-app](https://github.com/SothHive-Technologies/web-app)** — The SothHive marketing site and consulting surface. Laravel, Inertia, React.
+- **[web-app](https://github.com/SoftHive-Technologies/web-app)** — The SoftHive marketing site and consulting surface. Laravel, Inertia, React.
 - Pin four to six more repositories from the org sidebar once their READMEs are tight. This block is the showcase visitors actually click.
 
 ## Studio
@@ -71,7 +71,7 @@ We staff engagements as a hive: product engineers beside integration leads, paym
 
 Bring the messy diagram. If the ERP, the product, the payment rail, and the people are not yet one system, that is the work.
 
-**[softhive.jamilink.com](https://www.softhive.jamilink.com)** · **[info@softhive.com](mailto:info@softhive.com)**
+**[softhive.jamilink.com](https://softhivetechnologies.com/)** · **[info@softhive.com](mailto:info@softhive.com)**
 
 ---
 
