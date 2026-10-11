@@ -6,9 +6,9 @@
 
 Software, integrations, payments, AI pipelines, and automation — designed as one system, not five disconnected vendors.
 
-[Website](https://www.softhive.jamilink.com) · [Email](mailto:info@softhive.com) · [Call](tel:+254707282965)
+[Website]([https://www.softhive.jamilink.com](https://softhivetechnologies.com/)) · [Email](mailto:info@softhive.com) · [Call](tel:+254707282965)
 
-[![Website](https://img.shields.io/badge/web-softhive.jamilink.com-0f1419?style=for-the-badge)](https://www.softhive.jamilink.com)
+[![Website](https://img.shields.io/badge/web-softhive.com-0f1419?style=for-the-badge)](https://www.softhive.jamilink.com)
 [![Email](https://img.shields.io/badge/email-info%40softhive.com-14b8a6?style=for-the-badge)](mailto:info@softhive.com)
 [![Nairobi](https://img.shields.io/badge/studio-Nairobi%2C%20Kenya-f97316?style=for-the-badge)](https://www.softhive.jamilink.com)
 
